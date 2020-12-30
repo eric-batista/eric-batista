@@ -12,6 +12,6 @@ Enthusiast of the best web & mobile development technologies, i'm also have inte
 
 ### :rocket: I'm currently learning:
   - ![flutter](https://img.shields.io/badge/--black?style=flat-circle&logo=Flutter) **Flutter**
-  - ![javascript](https://img.shields.io/badge/--black?style=flat-square&logo=React) **React** & **React Native**
-  - ![tensorflow](https://img.shields.io/badge/--black?style=flat-square&logo=Tensorflow) **Tensorflow**
-  - ![tensorflow](https://img.shields.io/badge/--black?style=flat-square&logo=Pytorch) **Pytorch**
+  - ![javascript](https://img.shields.io/badge/--black?style=flat-circle&logo=React) **React** & **React Native**
+  - ![tensorflow](https://img.shields.io/badge/--black?style=flat-circle&logo=Tensorflow) **Tensorflow**
+  - ![tensorflow](https://img.shields.io/badge/--black?style=flat-circle&logo=Pytorch) **Pytorch**
