@@ -2,7 +2,7 @@
 Eric Batista
 </h1>
 
-Bachelor degree in Applied & Computational mathematics at **UNICENTRO**, with a healthy bit of seduction from computer science along the way. Currently, director and Chief technology at **BTK A.Intelligence**
+Bachelor student in Applied & Computational mathematics at **UNICENTRO**, with a healthy bit of seduction from computer science along the way. Currently, Lead Developer at **3C Plus now**
 
 [![Twitter Badge](https://img.shields.io/badge/-@Eric__cordeiro31-orange?style=flat-cirlce&labelColor=orange&logo=twitter&logoColor=white&link=https://twitter.com/Eric_cordeiro31)](https://twitter.com/Eric_cordeiro31)
 [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Batista-orange?style=flat-cirlce&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-batista-384820167/)](https://www.linkedin.com/in/eric-batista-384820167/) 
