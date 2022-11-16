@@ -2,7 +2,7 @@
 Eric Batista
 </h1>
 
-Bachelor student in Applied & Computational mathematics at **UNICENTRO**, with a healthy bit of seduction from computer science along the way. Currently, Lead Developer at **3C Plus now**
+Bachelor student in Applied & Computational mathematics at **UNICENTRO**, with a healthy bit of seduction from computer science along the way. Currently, Senior Software Engineer at **Experian**
 
 Enthusiast of the best web & mobile development technologies, i'm also have interest in artificial intelligence & image processing with Python.
 
