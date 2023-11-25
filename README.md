@@ -10,9 +10,9 @@ My expertise lies in the intersection of mathematics and computer science. I am 
 
 <div>
   <h2>Current Focus</h2>
-  * Web & Mobile Development: Leveraging the latest technologies to craft seamless and innovative solutions for the digital landscape.
-  * Artificial Intelligence: Exploring the vast possibilities and applications of AI to push the boundaries of what is technologically achievable.
-  * Image Processing with Python: Delving into the intricacies of image processing to enhance visual data interpretation and analysis.
+    <li>Web & Mobile Development: Leveraging the latest technologies to craft seamless and innovative solutions for the digital landscape.</li>
+    <li>Artificial Intelligence: Exploring the vast possibilities and applications of AI to push the boundaries of what is technologically achievable.</li>
+    <li>Image Processing with Python: Delving into the intricacies of image processing to enhance visual data interpretation and analysis.</li>
 </div>
 
 <div align="center">
