@@ -17,8 +17,9 @@ My expertise lies in the intersection of mathematics and computer science. I am 
 </div>
 </div><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-batista&layout=compact&langs_count=7&theme=dracula"/>
+
+![Eric GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
