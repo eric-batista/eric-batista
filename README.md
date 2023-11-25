@@ -8,12 +8,12 @@ I am a passionate Bachelor student majoring in Applied & Computational Mathemati
 <h2>Expertise</h2>
 My expertise lies in the intersection of mathematics and computer science. I am deeply fascinated by the best web and mobile development technologies, and I consistently stay abreast of the latest advancements in the field. Beyond that, I harbor a keen interest in artificial intelligence and image processing, with Python being my weapon of choice for these pursuits.
 
-<h2>Current Focus</h2>
-* Web & Mobile Development: Leveraging the latest technologies to craft seamless and innovative solutions for the digital landscape.
-
-* Artificial Intelligence: Exploring the vast possibilities and applications of AI to push the boundaries of what is technologically achievable.
-
-* Image Processing with Python: Delving into the intricacies of image processing to enhance visual data interpretation and analysis.
+<div>
+  <h2>Current Focus</h2>
+  * Web & Mobile Development: Leveraging the latest technologies to craft seamless and innovative solutions for the digital landscape.
+  * Artificial Intelligence: Exploring the vast possibilities and applications of AI to push the boundaries of what is technologically achievable.
+  * Image Processing with Python: Delving into the intricacies of image processing to enhance visual data interpretation and analysis.
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
