@@ -2,9 +2,18 @@
 Eric Batista
 </h1>
 
-Bachelor student in Applied & Computational mathematics at **UNICENTRO**, with a healthy bit of seduction from computer science along the way. Currently, Senior Software Engineer at **Experian**
+<h2>About Me</h2>
+I am a passionate Bachelor student majoring in Applied & Computational Mathematics at UNICENTRO and Software Engineering at FIAP. Along my academic journey, I've been captivated by the allure of computer science, leading me to explore the realms of software engineering. Presently, I hold the position of Senior Software Engineer at Experian, where I continually strive for excellence in the world of technology.
 
-Enthusiast of the best web & mobile development technologies, i'm also have interest in artificial intelligence & image processing with Python.
+<h2>Expertise</h2>
+My expertise lies in the intersection of mathematics and computer science. I am deeply fascinated by the best web and mobile development technologies, and I consistently stay abreast of the latest advancements in the field. Beyond that, I harbor a keen interest in artificial intelligence and image processing, with Python being my weapon of choice for these pursuits.
+
+<h2>Current Focus</h2>
+* Web & Mobile Development: Leveraging the latest technologies to craft seamless and innovative solutions for the digital landscape.
+
+* Artificial Intelligence: Exploring the vast possibilities and applications of AI to push the boundaries of what is technologically achievable.
+
+* Image Processing with Python: Delving into the intricacies of image processing to enhance visual data interpretation and analysis.
 
 <div align="center">
   <a href="https://github.com/eric-batista">
