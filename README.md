@@ -15,6 +15,7 @@ My expertise lies in the intersection of mathematics and computer science. I am 
 
 * Image Processing with Python: Delving into the intricacies of image processing to enhance visual data interpretation and analysis.
 
+---
 <div align="center">
   <a href="https://github.com/eric-batista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
